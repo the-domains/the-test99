@@ -1,0 +1,28 @@
+name: the Test99
+favicon: null
+layout_spectrum: 0.09204840823076665
+typography_spectrum: 0.5877284072339535
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.667007559677586
+  lightness: 0.30595284816809
+  saturation: 0.25863695866428316
+  rhythmicContrast: 0.29980912315659225
+purpose: []
