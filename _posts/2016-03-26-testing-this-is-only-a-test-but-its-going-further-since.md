@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Testing. This is only a test. But it's going further \_since I need longer sentences. Today I am writing this to test the abilities of \"the Grid\".\_Testing. This is only a test. But it's going further \_since I need longer sentences. Today I am writing this to test the abilities of \"the Grid\".\_Testing. This is only a test. But it's going further \_since I need longer sentences. Today I am writing this to test the abilities of \"the Grid\".\_Testing. This is only a test. But it's going further \_since I need longer sentences. Today I am writing this to test the abilities of \"the Grid\".\_Testing. This is only a test. But it's going further \_since I need longer sentences. Today I am writing this to test the abilities of \"the Grid\".\_Testing. This is only a test. But it's going further \_since I need longer sentences. Today I am writing this to test the abilities of \"the Grid\"."
-datePublished: '2016-03-26T20:55:59.587Z'
-dateModified: '2016-03-26T20:55:23.719Z'
+datePublished: '2016-03-26T23:22:29.737Z'
+dateModified: '2016-03-26T20:57:19.289Z'
 title: test B
 author: []
 sourcePath: _posts/2016-03-26-testing-this-is-only-a-test-but-its-going-further-since.md
