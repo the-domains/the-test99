@@ -1,6 +1,6 @@
 name: the Test99
 favicon: null
-layout_spectrum: 0.74843
+layout_spectrum: 0.25281
 typography_spectrum: 0.5877284072339535
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#d1d1d1'
+    - '#503b29'
+    - '#151011'
+    - '#c63d3c'
+    - '#c87539'
   brandStrength: 0.667007559677586
   lightness: 0.30595284816809
   saturation: 0.25863695866428316
